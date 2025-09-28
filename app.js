@@ -192,7 +192,7 @@ function displayResults() {
                         <th>Category</th>
                         <th>Capacity</th>
                         <th>Price (Monthly)</th>
-                        <th>Source</th>
+                        <th title="Excel: IC4G Catalog May 20 2025.xlsx | PDF: IC4G Catalog GSA Pricelist.pdf">Source</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
